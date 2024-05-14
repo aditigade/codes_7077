@@ -41,11 +41,9 @@
 
 17.	Write a Program to accept a graph from user and represent it with Adjacency List and perform BFS and DFS traversals on it.
 
+18.	Write a Program to implement Prim’s algorithm to find minimum spanning tree of a user defined graph. Use Adjacency Matrix to represent a graph.
 
-________________________________________
-this is from 20 
-20.	Write a Program to implement Prim’s algorithm to find minimum spanning tree of a user defined graph. Use Adjacency Matrix to represent a graph.
-
+19 and 20 is skipped 
 
 21.	WAP to implement Merge sort on 1D array of Student structure (contains student_name, student_roll_no, total_marks), with key as student_roll_no. And count the number of swap performed.
 
